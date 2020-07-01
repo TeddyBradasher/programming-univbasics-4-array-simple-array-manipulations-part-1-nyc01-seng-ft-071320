@@ -10,6 +10,5 @@ array.pop
 end
 
 def pop_with_args(array)
-  2 times.do
   array.pop
 end
